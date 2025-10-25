@@ -14,4 +14,6 @@ int main()
         sum =sum + i;
 
     printf("To athroisma twn arithmwn [%d..%d] einai %d", number, N, sum);
+
+    return 0;
 }
